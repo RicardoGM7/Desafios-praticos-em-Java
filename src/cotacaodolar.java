@@ -14,7 +14,7 @@ public class cotacaodolar {
 }
 
 
- class CurrencyConverter{
+class CurrencyConverter{
 static double IOF = 1.06;
 
 static double Converter(double cotacao, double valordesejado){
