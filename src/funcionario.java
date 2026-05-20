@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class funcionario {
+public class Funcionario {
     public static void main(String[] args) throws Exception{
     Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
