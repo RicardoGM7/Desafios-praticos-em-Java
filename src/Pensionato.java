@@ -12,7 +12,7 @@ e depois leia uma quantidade N representando o número de estudantes que vão al
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Pensionato {
+ class Pensionato {
 
     public static void main(String[] args) throws Exception{
     Locale.setDefault(Locale.US);

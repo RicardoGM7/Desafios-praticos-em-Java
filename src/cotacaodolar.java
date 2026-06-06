@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Cotacaodolar {
+ class Cotacaodolar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Qual a cotacao do dolar?");
@@ -22,3 +22,5 @@ static double Converter(double cotacao, double valordesejado){
 };
 
 }
+
+
