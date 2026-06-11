@@ -22,7 +22,7 @@ public class Order {
     public String toString() {
         StringBuilder sb = new StringBuilder();
         int total = 0;
-        sb.append("Order moment:" + moment.format(Pedidos.fmt2) + "\n");
+        sb.append("Order moment:" + moment.format(Main.fmt2) + "\n");
         sb.append("Order status: " + status + "\n");
         sb.append("Client: " + client + "\n");
         sb.append("Order items: " + "\n");

@@ -15,7 +15,7 @@ public class Client {
     
     @Override
     public String toString() {
-        return name + "(" + BirthDate.format(Pedidos.fmt1) + ")" + "-" + email;
+        return name + "(" + BirthDate.format(Main.fmt1) + ")" + "-" + email;
     }
 
     public String getName() {
